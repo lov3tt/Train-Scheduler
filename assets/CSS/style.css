@@ -1,0 +1,17 @@
+#wrapper {
+    background-image:url("../Images/fancy-cushion.png");
+}
+#header {
+    background-image:url("../Images/dark-paths.png");
+}
+
+#font {
+    font-family: 'Gugi', cursive;
+    color: white;
+}
+
+#makeWhite {
+    font-family: 'Gugi', cursive;
+    color: white;
+    
+}
